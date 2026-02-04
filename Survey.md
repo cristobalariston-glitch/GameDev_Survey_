@@ -132,7 +132,7 @@
     <div class="message">
       Happy Monthsary and Happy Valentines Day asawa ko<br />
       Thank you for being my hope and for being there when i needed the most<br />
-      I love you so much and always  &lt;3
+      I love you so much and always  ❤️
     </div>
 
     <div class="field" id="field"></div>
